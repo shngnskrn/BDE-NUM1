@@ -1,0 +1,14 @@
+.first.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.block1, .block2, .block3 {
+    font-size: 40px;
+    background-color: #eb3434;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+}
+
